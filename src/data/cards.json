@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "languages": [
+      { "id": "en", "word": "Hello" },
+      { "id": "es", "word": "Hola" },
+      { "id": "fr", "word": "Bonjour" },
+      { "id": "de", "word": "Hallo" }
+    ],
+    "image": "hello.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 2,
+    "languages": [
+      { "id": "en", "word": "Sun" },
+      { "id": "es", "word": "Sol" },
+      { "id": "fr", "word": "Soleil" },
+      { "id": "de", "word": "Sonne" }
+    ],
+    "image": "sun.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 3,
+    "languages": [
+      { "id": "en", "word": "Mountain" },
+      { "id": "es", "word": "Montaña" },
+      { "id": "fr", "word": "Montagne" },
+      { "id": "de", "word": "Berg" }
+    ],
+    "image": "mountain.png",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 4,
+    "languages": [
+      { "id": "en", "word": "Ocean" },
+      { "id": "es", "word": "Océano" },
+      { "id": "fr", "word": "Océan" },
+      { "id": "de", "word": "Ozean" }
+    ],
+    "image": "ocean.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 5,
+    "languages": [
+      { "id": "en", "word": "Forest" },
+      { "id": "es", "word": "Bosque" },
+      { "id": "fr", "word": "Forêt" },
+      { "id": "de", "word": "Wald" }
+    ],
+    "image": "forest.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 6,
+    "languages": [
+      { "id": "en", "word": "Book" },
+      { "id": "es", "word": "Libro" },
+      { "id": "fr", "word": "Livre" },
+      { "id": "de", "word": "Buch" }
+    ],
+    "image": "book.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 7,
+    "languages": [
+      { "id": "en", "word": "Star" },
+      { "id": "es", "word": "Estrella" },
+      { "id": "fr", "word": "Étoile" },
+      { "id": "de", "word": "Stern" }
+    ],
+    "image": "star.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 8,
+    "languages": [
+      { "id": "en", "word": "Music" },
+      { "id": "es", "word": "Música" },
+      { "id": "fr", "word": "Musique" },
+      { "id": "de", "word": "Musik" }
+    ],
+    "image": "music.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 9,
+    "languages": [
+      { "id": "en", "word": "Moon" },
+      { "id": "es", "word": "Luna" },
+      { "id": "fr", "word": "Lune" },
+      { "id": "de", "word": "Mond" }
+    ],
+    "image": "moon.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 10,
+    "languages": [
+      { "id": "en", "word": "Coffee" },
+      { "id": "es", "word": "Café" },
+      { "id": "fr", "word": "Café" },
+      { "id": "de", "word": "Kaffee" }
+    ],
+    "image": "coffee.jpg",
+    "flipped": false,
+    "matched": false
+  },
+  {
+    "id": 11,
+    "languages": [
+      { "id": "en", "word": "Rain" },
+      { "id": "es", "word": "Lluvia" },
+      { "id": "fr", "word": "Pluie" },
+      { "id": "de", "word": "Regen" }
+    ],
+    "image": "rain.jpg",
+    "flipped": false,
+    "matched": false
+  }
+]
